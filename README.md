@@ -10,8 +10,10 @@ I'm currently learning Statistical Data Analysis.
 
 <b><a name="My last project">My last projects:</a><br></b>
 <pre><a href="https://github.com/VladekQ/telecom_company_tariffs_research/blob/main/telecom_company_tariffs_research.ipynb">Telecom Company Tariffs Research</a> - Researching of the Telecom Company for the definition of the most profitable tariff</pre>
-<pre><a href="https://github.com/VladekQ/research-on-the-reliability-of-borrowers/blob/main/research-of-borrowers.ipynb">Research of borrowers</a></pre>
-
+<pre><a href="https://github.com/VladekQ/research-on-the-reliability-of-borrowers/blob/main/research-of-borrowers.ipynb">Research of borrowers</a> - 
+Borrower Reliability Research</pre>
+<pre><a href="https://github.com/VladekQ/real_estate_research/blob/main/real_estate_research.ipynb">Real Estate Research</a> - 
+Research of factors influencing the price of a real estate</pre>
 
 <!--
 **VladekQ/VladekQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

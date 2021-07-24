@@ -1,4 +1,5 @@
 ### Hi there 👋
+&#128075;
 
 <!--
 **VladekQ/VladekQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

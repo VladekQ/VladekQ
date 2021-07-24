@@ -6,7 +6,7 @@ I'm currently learning Statistical Data Analysis.
 
 📫 How to reach me:<br>
     <pre>    e-mail: lowkick2005@yandex.ru</pre><br>
-    telegram: @vladekq
+    <pre>    telegram: @vladekq</pre>
 
 <!--
 **VladekQ/VladekQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

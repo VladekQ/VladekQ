@@ -1,7 +1,12 @@
 ### Hi there 👋
 ### My name is Vladislav Polyakov &#129489;
 
-I am a raising student of Data Science
+I am a raising student of Data Science. I've been learning Python for about 2 years now and studying Data Science for a half of year.
+I'm currently learning Statistical Data Analysis.
+
+📫 How to reach me:
+    e-mail: lowkick2005@yandex.ru
+    telegram: @vladekq
 
 <!--
 **VladekQ/VladekQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

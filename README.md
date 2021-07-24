@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### My name is Vladislav Polyakov &#129489;
-# &#128075;
+
+I am a raising student of Data Science
 
 <!--
 **VladekQ/VladekQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

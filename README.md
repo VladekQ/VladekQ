@@ -8,7 +8,7 @@ I'm currently learning Statistical Data Analysis.
     <pre>    e-mail: lowkick2005@yandex.ru</pre>
     <pre>    telegram: @vladekq</pre>
 
-<a name="My last project">My last project</a>
+---<a name="My last project">My last project</a>---<br>
 <a href="https://github.com/VladekQ/telecom_company_tariffs_research/blob/main/telecom_company_tariffs_research.ipynb">Telecom Company Tariffs Research</a>
 
 

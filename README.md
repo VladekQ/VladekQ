@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Vladislav Polyakov &#129489;
+### My name is Vladislav Polyakov &#129489;
 # &#128075;
 
 <!--

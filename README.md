@@ -1,4 +1,3 @@
-![NicePng_lines-png_300035](https://user-images.githubusercontent.com/72941961/126871977-259f4028-fa0b-42e9-8b1a-7e91a6dc75b6.png)
 ### Hi there 👋
 ### My name is Vladislav Polyakov &#129489;
 

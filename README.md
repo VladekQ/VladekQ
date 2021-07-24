@@ -8,6 +8,9 @@ I'm currently learning Statistical Data Analysis.
     <pre>    e-mail: lowkick2005@yandex.ru</pre>
     <pre>    telegram: @vladekq</pre>
 
+<a href="https://github.com/VladekQ/telecom_company_tariffs_research/blob/main/telecom_company_tariffs_research.ipynb">...</a>
+<a name="My last project">...</a>
+
 <!--
 **VladekQ/VladekQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

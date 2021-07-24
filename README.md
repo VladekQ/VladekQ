@@ -4,7 +4,7 @@
 I am a raising student of Data Science. I've been learning Python for about 2 years now and studying Data Science for a half of year.
 I'm currently learning Statistical Data Analysis.
 
-📫 How to reach me:<br>
+<b>📫 How to reach me:</b><br>
     <pre>e-mail: lowkick2005@yandex.ru</pre>
     <pre>telegram: @vladekq</pre>
 

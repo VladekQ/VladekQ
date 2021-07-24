@@ -8,8 +8,9 @@ I'm currently learning Statistical Data Analysis.
     <pre>    e-mail: lowkick2005@yandex.ru</pre>
     <pre>    telegram: @vladekq</pre>
 
----<a name="My last project">My last project</a>---<br>
-<a href="https://github.com/VladekQ/telecom_company_tariffs_research/blob/main/telecom_company_tariffs_research.ipynb">Telecom Company Tariffs Research</a>
+---<a name="My last project">My last projects</a>---<br>
+<pre><a href="https://github.com/VladekQ/telecom_company_tariffs_research/blob/main/telecom_company_tariffs_research.ipynb">Telecom Company Tariffs Research</a></pre>
+<pre><a href="https://github.com/VladekQ/research-on-the-reliability-of-borrowers/blob/main/research-of-borrowers.ipynb">Research of borrowers</a></pre>
 
 
 <!--

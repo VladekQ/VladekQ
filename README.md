@@ -5,7 +5,7 @@ I am a raising student of Data Science. I've been learning Python for about 2 ye
 I'm currently learning Statistical Data Analysis.
 
 📫 How to reach me:<br>
-    <p style="margin-left: 500px;">e-mail: lowkick2005@yandex.ru</p><br>
+    <p style="margin-left: 50px;">e-mail: lowkick2005@yandex.ru</p><br>
     telegram: @vladekq
 
 <!--

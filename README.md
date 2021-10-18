@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### My name is Vladislav Polyakov &#129489;
 
-I am a raising student of Data Science. I've been learning Python for about 2 years now and studying Data Science for a half of year.
-I'm currently learning Statistical Data Analysis.
+I am a raising student of Data Science. I've been learning Python for about 2 years now and studying Data Science for a year.
+I'm currently learning Linear Algebra and Machine Learning.
 
 <b>📫 How to reach me:</b><br>
     <pre>e-mail: v.pollyakov@yandex.ru</pre>

@@ -8,7 +8,7 @@ Right now i'm focused on Machine Learning and taking a part in ML competitions. 
 
 <b><a name="My last project">🎌 My competitions notebooks:</a><br></b>
 
-<pre><a href="https://github.com/VladekQ/telecom_company_tariffs_research/blob/main/telecom_company_tariffs_research.ipynb">⚽ Football League Winners Prediction Challenge</a> - The objective of this challenge is to predict the outcome of a football match</pre>
+<pre><a href="https://github.com/VladekQ/telecom_company_tariffs_research/blob/main/telecom_company_tariffs_research.ipynb">⚽ Football League Winners Prediction Challenge</a> - Predicting the outcome of a football match</pre>
 
 <pre><a href="https://github.com/VladekQ/research-on-the-reliability-of-borrowers/blob/main/research-of-borrowers.ipynb">📋 Tabular Playground Series</a> - The August 2022 edition of the Tabular Playground Series</pre>
 

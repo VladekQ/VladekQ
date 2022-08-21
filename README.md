@@ -7,8 +7,8 @@ I'm currently working at "Sberbank" as Data Analyst.
 Right now i'm focused on Machine Learning and taking a part in ML competitions. Here is a few works from competitions:
 
 <b><a name="My last project">⭐ My competitions notebooks:</a><br></b>
-<pre><a href="https://github.com/VladekQ/telecom_company_tariffs_research/blob/main/telecom_company_tariffs_research.ipynb">⚽ Football League Winners Prediction Challenge</a> - The objective of this challenge is to predict the outcome of a football match, based on historical match and player data.</pre>
-<pre><a href="https://github.com/VladekQ/research-on-the-reliability-of-borrowers/blob/main/research-of-borrowers.ipynb">📋 Tabular Playground Series</a> - The August 2022 edition of the Tabular Playground Series is an opportunity to help the fictional company Keep It Dry improve its main product Super Soaker. The product is used in factories to absorb spills and leaks.</pre>
+<a href="https://github.com/VladekQ/telecom_company_tariffs_research/blob/main/telecom_company_tariffs_research.ipynb">⚽ Football League Winners Prediction Challenge</a> - The objective of this challenge is to predict the outcome of a football match, based on historical match and player data.
+<a href="https://github.com/VladekQ/research-on-the-reliability-of-borrowers/blob/main/research-of-borrowers.ipynb">📋 Tabular Playground Series</a> - The August 2022 edition of the Tabular Playground Series is an opportunity to help the fictional company Keep It Dry improve its main product Super Soaker. The product is used in factories to absorb spills and leaks.
 
 <b>📫 How to reach me:</b><br>
     <pre>e-mail: v.pollyakov@yandex.ru</pre>

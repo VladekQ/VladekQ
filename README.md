@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### My name is Vladislav Polyakov &#129489;
 
-I've been learning Python for about 2 years now and studying Data Science for more than a year.
+I've been learning Python for about 4 years now and studying Data Science for more than 2 years.
 I'm currently working at "Sberbank" as Data Analyst.
 
 Right now i'm focused on Machine Learning and taking a part in ML competitions. Here is a few works from competitions:
@@ -20,6 +20,7 @@ Right now i'm focused on Machine Learning and taking a part in ML competitions. 
 <pre><a href="https://github.com/VladekQ/telecom_company_tariffs_research/blob/main/telecom_company_tariffs_research.ipynb">📡 Telecom Company Tariffs Research</a> - Researching of the Telecom Company for the definition of the most profitable tariff</pre>
 <pre><a href="https://github.com/VladekQ/research-on-the-reliability-of-borrowers/blob/main/research-of-borrowers.ipynb">🏦 Research of borrowers</a> - Borrower Reliability Research</pre>
 <pre><a href="https://github.com/VladekQ/real_estate_research/blob/main/real_estate_research.ipynb">🏠 Real Estate Research</a> - Research of factors influencing the price of a real estate</pre>
+<pre><a href="https://github.com/VladekQ/online-store-ab-testing/blob/main/Online%20Store%20AB%20Testing.ipynb">🆎 Online Store A/B Testing</a> - A study of the indicators of two versions of the online store</pre>
 
 <hr>
 

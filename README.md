@@ -21,6 +21,9 @@ Right now i'm focused on Machine Learning and taking a part in ML competitions. 
 <pre><a href="https://github.com/VladekQ/research-on-the-reliability-of-borrowers/blob/main/research-of-borrowers.ipynb">🏦 Research of borrowers</a> - Borrower Reliability Research</pre>
 <pre><a href="https://github.com/VladekQ/real_estate_research/blob/main/real_estate_research.ipynb">🏠 Real Estate Research</a> - Research of factors influencing the price of a real estate</pre>
 <pre><a href="https://github.com/VladekQ/online-store-ab-testing/blob/main/Online%20Store%20AB%20Testing.ipynb">🆎 Online Store A/B Testing</a> - A study of the indicators of two versions of the online store</pre>
+<pre><a href="https://github.com/VladekQ/svm_svd_mnist_classifier/blob/main/svd_mnist_classifier.ipynb">🔬 Singular Value Decomposition vs. Support Vector Machines: A Comparative Study for Handwritten Digit Recognition</a>
+The development and implementation of a unique algorithm for handwritten digit recognition using Singular Value Decomposition (SVD)</pre>
+
 
 <hr>
 
